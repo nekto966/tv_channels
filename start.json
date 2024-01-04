@@ -2,6 +2,6 @@
     "name": "ТВ каналы",
     "version": "0.0.1",
 	"parameter": "menu:https://raw.githubusercontent.com/nekto966/tv_channels/main/start.json",
-	"action": "menu:http://msx.nnmtv.fun/msx/iptv/tv_nnm.json"",
+	"action": "menu:http://msx.nnmtv.fun/msx/iptv/tv_nnm.json",
     "menu": []
 }
